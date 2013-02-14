@@ -14,7 +14,7 @@ Simply copy all files and directories to the web server and ensure the
 
 The password to access the system initially is 'welcome'
 
-More Information
+Video Demo
 ================
 
-http://www.fluidbyte.net/placx--simple-project--task-visualization
+http://www.youtube.com/watch?v=YlgWQeG_if4
